@@ -7,3 +7,5 @@ Make sure to install BeautifulSoup with `pip install bs4` and requests with `pip
 
 ## Beautiful Soup Documentation (bs4):
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+Reference: SATSifaction
